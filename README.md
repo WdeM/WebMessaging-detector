@@ -1,9 +1,10 @@
 # WebMessaging-detector
 Detect cross-document messaging. 
 
-
-
 Be aware for bad code.
+
+One could probably make it show the results in markdown. Would make it cleaner
+to use.
 
 ### Usage
 
@@ -11,7 +12,6 @@ Be aware for bad code.
 
 [![asciicast](https://asciinema.org/a/PxI0kPJaDS4VGnUPwbMRAqOL0.svg)](https://asciinema.org/a/PxI0kPJaDS4VGnUPwbMRAqOL0)
 
-One could probably make it show the results in markdown. Would make it cleaner
-to use.
+
 
 
